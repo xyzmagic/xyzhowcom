@@ -1,0 +1,1 @@
+(function(a){a.HSCore.helpers.HSBgVideo={init:function(b){a(b).hsBgVideo()}}})(jQuery);
